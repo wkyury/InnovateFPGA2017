@@ -1,1 +1,1 @@
-# teste
+Arquivos da competição.
